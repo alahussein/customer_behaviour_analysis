@@ -4,7 +4,7 @@
 
 [Dataset](https://8weeksqlchallenge.com/case-study-1/)
 
-Acknowledgment
+### Acknowledgment
 
 The datasets utilized in this analysis, namely the sales, menu, and members datasets, were created and made available by Danny Ma through his website on May 1, 2021 and are freely accessible to all through [8WeekSQLChallenge](https://8weeksqlchallenge.com/case-study-1/).
 
