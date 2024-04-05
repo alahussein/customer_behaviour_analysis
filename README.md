@@ -17,3 +17,6 @@ Three primary datasets have been provided for this case study:
 
 ### Case Study Questions:
 The case study presents a series of questions, each of which can be answered using a single SQL statement. These questions encompass various aspects of customer behavior, including spending patterns, visitation frequencies, menu preferences, and engagement with the loyalty program.
+
+### Analysis
+
