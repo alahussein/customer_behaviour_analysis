@@ -1,6 +1,6 @@
 -- Data Cleaning
 
--- Check for missing values in the sales table
+-- Checking for missing values in the sales table
 
     SELECT COUNT(*) AS missing_values_count
     FROM dannys_diner.sales
@@ -12,7 +12,7 @@
 
 ---
   
--- Check for missing values in the menu table
+-- Checking for missing values in the menu table
 
     SELECT COUNT(*) AS missing_values_count
     FROM dannys_diner.menu
@@ -24,7 +24,7 @@
 
 ---
 
-  -- Check for missing values in the members table
+  -- Checking for missing values in the members table
 
     SELECT COUNT(*) AS missing_values_count
     FROM dannys_diner.members
@@ -38,7 +38,7 @@
   
 -- Data exploration
 
-  -- 1. Explore the distribution of total spending by customers
+  -- 1. Exploring the distribution of total spending by customers
 
     SELECT 
         customer_id,
@@ -56,7 +56,7 @@
 | C           | 36          |
 
 ---
--- 2. Explore the distribution of visited days by customers
+-- 2. Exploring the distribution of visited days by customers
 
     SELECT
         customer_id,
@@ -72,7 +72,7 @@
 | C           | 2            |
 
 ---
--- 3. Explore the distribution of purchased items by customers
+-- 3. Exploring the distribution of purchased items by customers
 
     SELECT
         customer_id,
